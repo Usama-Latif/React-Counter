@@ -1,0 +1,37 @@
+.main {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.counter h2 {
+    font-size: 40px;
+}
+
+
+.btn {
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+
+.in-btn {
+    background-color: green;
+}
+
+.de-btn {
+    background-color: red;
+}
+
+.reset {
+    background-color: grey;
+}
